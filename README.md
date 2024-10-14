@@ -1,5 +1,6 @@
-## Hi there 👋
+## Bonjour 👋
 
+Etudiante en M2 TNAH à l'Ecole Nationale des Chartes
 <!--
 **May8326/May8326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
