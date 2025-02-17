@@ -17,11 +17,11 @@
     </div>
 
 <h2>🛠️ Langages et Outils</h2>
-    <div class="center">
-        <p>
+    <div>
+        <p align="center">
             <img src="https://skillicons.dev/icons?i=obsidian,vscode,git,github,linux,ubuntu,windows,sublime&theme=light" />
         </p>
-        <p>
+        <p align="center">
             <img src="https://skillicons.dev/icons?i=html,css,latex,py,flask,bash,sqlite,regex&theme=light" />
         </p>
     </div>
