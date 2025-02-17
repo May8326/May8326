@@ -1,13 +1,4 @@
-<div>
-  <input type="radio" id="tab1" name="tab" checked>
-  <label for="tab1">English</label>
-  <input type="radio" id="tab2" name="tab">
-  <label for="tab2">Français</label>
-  
-  <div class="tab-content">
-    <div class="tab1">
-      <!-- English content goes here -->
-      <h2>Bienvenue!</h2>
+   <h2>Bienvenue!</h2>
       <p>Maëlys Gioan est élève à l'École nationale des chartes, où elle suit le master "Technologies numériques appliquées à l'histoire".</p>
       <p>🎓 Titulaire d'une licence d'histoire avec mention très bien obtenue à l'université Paris IV, elle a acquis une solide formation en analyse historique. Lors d'un stage aux Archives municipales de Toulon, elle a développé des compétences en gestion archivistique et en documentation historique.</p>
       <p>🖋️ Dans son mémoire de M1, intitulé *« La paroisse Saint-Louis de Toulon en 1720 : aperçu social et démographique »*, elle a étudié l'histoire sociale de la paroisse en soulignant l'intérêt des technologies numériques pour l'analyse des dynamiques sociales.</p>
@@ -15,35 +6,9 @@
       <p>💫 Passionnée par l'archivistique et les technologies numériques, elle aspire à faire progresser l'innovation numérique dans le domaine du patrimoine et des sciences humaines.</p>
     </div>
     <div class="tab2">
-      <!-- French content goes here -->
       <h2>Welcome !</h2>
       <p>Maëlys Gioan is a student at the Ecole nationale des Chartes where she follows the Technologies numériques appliquées à l'histoire programme.</p>
       <p>🎓She previously earned a bachelor's degree in History from Paris IV university with highest honours, which provided her a strong foundation in historical analysis. Maëlys completed an internship at the Municipal Archives of Toulon, where she developed expertise in archival management and historical documentation.</p>
       <p>🖋️ In her M1 thesis, titled "_La paroisse Saint-Louis de Toulon en 1720 : aperçu social et démographique_", she explored the social history of the parish and highlighted the interests of integrating digital technologies to analyse social dynamics.</p>
       <p>🖥️ She is currently contributing to the e-NDP project, where she focuses on text lemmatisation, to enhance the digital accessibility of the Notre Dame de Paris cathedral chapter's registers.</p>
       <p>💫 Passionate about archival science and digital technology, she hopes to contribute to the advancement of digital innovation in heritage and the humanities.</p>
-    </div>
-  </div>
-</div>
-
-<style>
-  input[type="radio"] {
-    display: none;
-  }
-  label {
-    display: inline-block;
-    padding: 10px;
-    cursor: pointer;
-  }
-  .tab-content > div {
-    display: none;
-  }
-  input[type="radio"]:checked + label + .tab-content > div {
-    display: block;
-  }
-</style>
-
-
----
-
-
