@@ -25,10 +25,10 @@ Lors d'un stage aux Archives municipales de Toulon, elle a développé des comp�
         </td>
         <td>
             <h2>🛠️ Langages et Outils</h2>
-            <p style="text-align: center;"></p>
+            <p>
                 <img src="https://skillicons.dev/icons?i=obsidian,vscode,github,linux,ubuntu,windows,sublime&theme=light&perline=4" />
             </p>
-            <p style="text-align: center;"></p>
+            <p>
                 <img src="https://skillicons.dev/icons?i=html,css,python,latex,git,py,flask,bash,sqlite,regex&theme=light&perline=4" />
             </p>
         </td>
