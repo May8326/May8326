@@ -25,4 +25,6 @@
             <img src="https://skillicons.dev/icons?i=html,css,latex,py,flask,bash,sqlite,regex&theme=light" />
         </p>
     </div>
+<h2>🕐 En cours</h2>
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 </div>
