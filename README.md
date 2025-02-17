@@ -11,9 +11,11 @@ Lors d'un stage aux Archives municipales de Toulon, elle a développé des comp�
 
 💫 Passionnée par l'archivistique et les technologies numériques, elle aspire à faire progresser l'innovation numérique dans le domaine du patrimoine et des sciences humaines.
 
-# ⚡️ Stats
 
-<div align=center>
+<div class="row">
+    <div align=center>
+      
+<h2>⚡️ Stats </h2>
   <a href="https://github.com/May8326/May8326/activity">
   <img width=auto height="200" src="https://github-readme-stats.vercel.app/api?username=may8326&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=fr&title_color=417e87&border_radius=10" alt="Mae's GitHub Stats" />
   </a>
@@ -21,20 +23,19 @@ Lors d'un stage aux Archives municipales de Toulon, elle a développé des comp�
   <img width=auto height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=may8326&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en&title_color=417e87" alt="May8326's Most Used Languages" />
   </a>
   </div>
-
-# 🛠️ Langages et Outils
-
-<br>
-
-<p align="center">
+  <h2>🛠️ Langages et Outils</h2>
+    <div>
+       <p align="center">
   <img src="https://skillicons.dev/icons?i=obsidian,vscode,github,linux,ubuntu,windows,sublime&theme=light" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,latex,git,py,flask,bash,sqlite,regex&theme=light" />
 </p>
+    </div>
+</div>
 
 
-   
+
    <!--   ## Welcome !
       Maëlys Gioan is a student at the Ecole nationale des Chartes where she follows the Technologies numériques appliquées à l'histoire programme.
       🎓She previously earned a bachelor's degree in History from Paris IV university with highest honours, which provided her a strong foundation in historical analysis. Maëlys completed an internship at the Municipal Archives of Toulon, where she developed expertise in archival management and historical documentation.
