@@ -1,6 +1,6 @@
 <div>
     <h1>👋 Bienvenue!</h1>
-    <p><em>Maëlys Gioan est élève à l'École nationale des chartes, où elle suit le master "Technologies numériques appliquées à l'histoire".</em></p>
+    <p font-family="Courier New"><em>Maëlys Gioan est élève à l'École nationale des chartes, où elle suit le master "Technologies numériques appliquées à l'histoire".</em></p>
     <p>🎓 Titulaire d'une licence d'histoire avec mention très bien obtenue à l'université Paris IV, elle a acquis une solide formation en analyse historique. Lors d'un stage aux Archives municipales de Toulon, elle a développé des compétences en gestion archivistique et en documentation historique.</p>
     <p>🖋️ Dans son mémoire de M1, intitulé <em>« La paroisse Saint-Louis de Toulon en 1720 : aperçu social et démographique »</em>, elle a étudié l'histoire sociale de la paroisse en soulignant l'intérêt des technologies numériques pour l'analyse des dynamiques sociales.</p>
     <p>🖥️ Elle contribue actuellement au projet e-NDP, où elle travaille sur la lemmatisation de textes afin d'améliorer l'accessibilité numérique des registres du chapitre de la cathédrale Notre-Dame de Paris.</p>
@@ -16,7 +16,7 @@
         </a>
     </div>
 
-    <h2>🛠️ Langages et Outils</h2>
+<h2>🛠️ Langages et Outils</h2>
     <div class="center">
         <p>
             <img src="https://skillicons.dev/icons?i=obsidian,vscode,git,github,linux,ubuntu,windows,sublime&theme=light" />
