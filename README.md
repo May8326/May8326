@@ -22,7 +22,7 @@ Lors d'un stage aux Archives municipales de Toulon, elle a développé des comp�
   </a>
   </div>
 
-# 🛠️ Languages and Tools
+# 🛠️ Langages et Outils
 
 <br>
 
