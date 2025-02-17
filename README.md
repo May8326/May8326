@@ -14,7 +14,7 @@ Lors d'un stage aux Archives municipales de Toulon, elle a développé des comp�
 
 <div>
     <h2>⚡️ Stats </h2>
-    <a href="https://github.com/May8326/May8326/activity" align="center">
+    <a href="https://github.com/May8326/May8326/activity">
         <img width=auto height="200" src="https://github-readme-stats.vercel.app/api?username=may8326&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=fr&title_color=417e87&border_radius=10" alt="Mae's GitHub Stats" />
     </a>
     <a href="https://github.com/May8326/May8326/activity">
@@ -23,10 +23,10 @@ Lors d'un stage aux Archives municipales de Toulon, elle a développé des comp�
 </div>
 <div>
     <h2>🛠️ Langages et Outils</h2>
-    <p>
+    <p align="center">
         <img src="https://skillicons.dev/icons?i=obsidian,vscode,git,github,linux,ubuntu,windows,sublime&theme=light" />
     </p>
-    <p>
+    <p align="center>
         <img src="https://skillicons.dev/icons?i=html,css,latex,py,flask,bash,sqlite,regex&theme=light" />
     </p>
 </div>
