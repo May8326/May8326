@@ -12,16 +12,16 @@ Lors d'un stage aux Archives municipales de Toulon, elle a développé des comp�
 💫 Passionnée par l'archivistique et les technologies numériques, elle aspire à faire progresser l'innovation numérique dans le domaine du patrimoine et des sciences humaines.
 
 
-<div style="text-align: center;">
+<div>
     <h2>⚡️ Stats </h2>
-    <a href="https://github.com/May8326/May8326/activity">
+    <a href="https://github.com/May8326/May8326/activity" align="center">
         <img width=auto height="200" src="https://github-readme-stats.vercel.app/api?username=may8326&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=fr&title_color=417e87&border_radius=10" alt="Mae's GitHub Stats" />
     </a>
     <a href="https://github.com/May8326/May8326/activity">
         <img width=auto height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=may8326&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en&title_color=417e87" alt="May8326's Most Used Languages" />
     </a>
 </div>
-<div style="text-align: center;">
+<div>
     <h2>🛠️ Langages et Outils</h2>
     <p>
         <img src="https://skillicons.dev/icons?i=obsidian,vscode,git,github,linux,ubuntu,windows,sublime&theme=light" />
