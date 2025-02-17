@@ -13,19 +13,18 @@ Maëlys Gioan est élève à l'École nationale des chartes, où elle suit le ma
 <br>
 
 ## ⚡️ Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=may8326&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=may8326&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=fr&title_color=417e87" alt="Mae's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
 </div>
 
 <hr>
 
-
-
+## Langues 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maey8326)](https://github.com/may8326/github-readme-stats)
 
 
 
