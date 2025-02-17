@@ -20,7 +20,7 @@ Maëlys Gioan est élève à l'École nationale des chartes, où elle suit le ma
 
 
 ## Langues 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maey8326)](https://github.com/may8326/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=may8326)](https://github.com/may8326/github-readme-stats)
 
 
 
