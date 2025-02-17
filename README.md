@@ -1,8 +1,9 @@
 # 👋 Bienvenue! 
 
-Maëlys Gioan est élève à l'École nationale des chartes, où elle suit le master "Technologies numériques appliquées à l'histoire".
+_Maëlys Gioan est élève à l'École nationale des chartes, où elle suit le master "Technologies numériques appliquées à l'histoire"._
 
-🎓 Titulaire d'une licence d'histoire avec mention très bien obtenue à l'université Paris IV, elle a acquis une solide formation en analyse historique. Lors d'un stage aux Archives municipales de Toulon, elle a développé des compétences en gestion archivistique et en documentation historique.
+🎓 Titulaire d'une licence d'histoire avec mention très bien obtenue à l'université Paris IV, elle a acquis une solide formation en analyse historique. 
+Lors d'un stage aux Archives municipales de Toulon, elle a développé des compétences en gestion archivistique et en documentation historique.
 
 🖋️ Dans son mémoire de M1, intitulé *« La paroisse Saint-Louis de Toulon en 1720 : aperçu social et démographique »*, elle a étudié l'histoire sociale de la paroisse en soulignant l'intérêt des technologies numériques pour l'analyse des dynamiques sociales.
 
