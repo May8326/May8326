@@ -1,32 +1,4 @@
-<style>
-    body {
-        font-family: 'Courier New', Courier, monospace;
-        background-color: #f4f4f9;
-        color: #333;
-        line-height: 1.6;
-        margin: 0;
-        padding: 0;
-    }
-    .container {
-        width: 80%;
-        margin: auto;
-        overflow: hidden;
-    }
-    h1, h2 {
-        color: #417e87;
-    }
-    p {
-        margin: 1em 0;
-    }
-    .center {
-        text-align: center;
-    }
-    img {
-        border-radius: 10px;
-    }
-</style>
-
-<div class="container">
+<div>
     <h1>👋 Bienvenue!</h1>
     <p><em>Maëlys Gioan est élève à l'École nationale des chartes, où elle suit le master "Technologies numériques appliquées à l'histoire".</em></p>
     <p>🎓 Titulaire d'une licence d'histoire avec mention très bien obtenue à l'université Paris IV, elle a acquis une solide formation en analyse historique. Lors d'un stage aux Archives municipales de Toulon, elle a développé des compétences en gestion archivistique et en documentation historique.</p>
@@ -34,7 +6,7 @@
     <p>🖥️ Elle contribue actuellement au projet e-NDP, où elle travaille sur la lemmatisation de textes afin d'améliorer l'accessibilité numérique des registres du chapitre de la cathédrale Notre-Dame de Paris.</p>
     <p>💫 Passionnée par l'archivistique et les technologies numériques, elle aspire à faire progresser l'innovation numérique dans le domaine du patrimoine et des sciences humaines.</p>
 
-    <h2>⚡️ Statistiques</h2>
+<h2>⚡️ Statistiques</h2>
     <div class="center">
         <a href="https://github.com/May8326/May8326/activity">
             <img width="auto" height="200" src="https://github-readme-stats.vercel.app/api?username=may8326&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=fr&title_color=417e87&border_radius=10" alt="Mae's GitHub Stats" />
