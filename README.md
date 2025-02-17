@@ -15,9 +15,8 @@
             <img width="auto" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=may8326&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en&title_color=417e87" alt="May8326's Most Used Languages" />
         </a>
     </div>
-
-<h2>🛠️ Langages et Outils</h2>
     <div>
+    <h2>🛠️ Langages et Outils</h2>
         <p align="center">
             <img src="https://skillicons.dev/icons?i=obsidian,vscode,git,github,linux,ubuntu,windows,sublime&theme=light" />
         </p>
@@ -25,6 +24,10 @@
             <img src="https://skillicons.dev/icons?i=html,css,latex,py,flask,bash,sqlite,regex&theme=light" />
         </p>
     </div>
-<h2>🕐 En cours</h2>
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+    <div>
+    <h2>🕐 En cours</h2>
+        <p align="center">
+            <img src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d"/>
+        </p>
+    
 </div>
