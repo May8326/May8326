@@ -28,6 +28,8 @@ Lors d'un stage aux Archives municipales de Toulon, elle a développé des comp�
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=obsidian,vscode,github,linux,ubuntu,windows,sublime&theme=light" />
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,latex,git,py,flask,bash,sqlite,regex&theme=light" />
 </p>
 
