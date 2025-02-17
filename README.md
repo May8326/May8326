@@ -1,5 +1,3 @@
-<img src="https://unsplash.com/fr/photos/lot-a-livre-ouvert-Oaqk7qqNh_c" alt="Banner">
-
 ## Bienvenue!
 
 Maëlys Gioan est élève à l'École nationale des chartes, où elle suit le master "Technologies numériques appliquées à l'histoire".
@@ -12,12 +10,18 @@ Maëlys Gioan est élève à l'École nationale des chartes, où elle suit le ma
 
 💫 Passionnée par l'archivistique et les technologies numériques, elle aspire à faire progresser l'innovation numérique dans le domaine du patrimoine et des sciences humaines.
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/May8326/count.svg" alt="Visitor's Count" />
+<br>
+
+<div align="center">
+  <a href="maelys.gioan@chartes.psl.eu">
+    <img src="https://img.shields.io/badge/Outlook-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
 
-
+<hr>
 
 
 
