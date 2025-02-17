@@ -1,3 +1,5 @@
+<img src="https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+
 ## Bienvenue!
 
 Maëlys Gioan est élève à l'École nationale des chartes, où elle suit le master "Technologies numériques appliquées à l'histoire".
