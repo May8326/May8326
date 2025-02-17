@@ -24,12 +24,8 @@
             <img src="https://skillicons.dev/icons?i=html,css,latex,py,flask,bash,sqlite,regex&theme=light" />
         </p>
     </div>
-    <div>
-    <h2>🕐 En cours</h2>
-        <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api/gist?id=9c0b62c"/>
-            
-        </p>
+
+   
 
 
     
