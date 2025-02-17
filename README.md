@@ -14,10 +14,10 @@ Maëlys Gioan est élève à l'École nationale des chartes, où elle suit le ma
 
 <div align=center>
   <a href="https://github-readme-stats">
-  <img width=auto height="250" src="https://github-readme-stats.vercel.app/api?username=may8326&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=fr&title_color=417e87" alt="Mae's GitHub Stats" />
+  <img width=auto height="150" src="https://github-readme-stats.vercel.app/api?username=may8326&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=fr&title_color=417e87&border_radius=10" alt="Mae's GitHub Stats" />
   </a>
   <a href="https://github-readme-stats">
-  <img width=auto height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=may8326&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="May8326's Most Used Languages" />
+  <img width=auto height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=may8326&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en&title_color=417e87" alt="May8326's Most Used Languages" />
   </a>
   </div>
 
