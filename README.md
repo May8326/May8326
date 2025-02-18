@@ -29,16 +29,10 @@
 
 <div align="center">
   <a mailto="maelys.gioan@chartes.psl.eu">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Outlook-blue?style=flat&logo=maildotru&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=maildotru&logoColor=white" target="blank" />
   </a>
-  <a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://medium.com/@chijiokeokorji" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://codepen.io/chijiokeokorji" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
+  <a href="www.linkedin.com/in/mg-29467b26a" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" target="blank" />
   </a>
 </div>
 
