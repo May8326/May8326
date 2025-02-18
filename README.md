@@ -28,9 +28,8 @@
 <h2>👤 Contact</h2>   
 
 <div align="center">
-  <a href="chijiokeokorji@gmail.com">
-    <img src="https://img.shields.io/badge/Outlook-333333?style=for-the-badge&logo=outlook&logoColor=red" />
-       <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoftoutlook" alt="Outlook" mailto="maelys.gioan@chartes.psl.eu" />
+  <a mailto="maelys.gioan@chartes.psl.eu">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Outlook-blue?style=flat&logo=maildotru&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
