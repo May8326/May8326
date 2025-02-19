@@ -28,11 +28,11 @@
 <h2>👤 Contact</h2>   
 
 <div align="center">
-  <a mailto="maelys.gioan@chartes.psl.eu">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=maildotru&logoColor=white" target="blank" />
+  <a mailto="maelys.gioan@chartes.psl.eu" target="blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=maildotru&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/mg-29467b26a" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" target="blank" />
+  <a href="https://www.linkedin.com/in/mg-29467b26a" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/>
   </a>
 </div>
 
