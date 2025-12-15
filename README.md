@@ -3,13 +3,12 @@
 
 <div>
     <h1>👋 Bienvenue!</h1>
-    <blockquote font-family="Courier New"><em>Maëlys Gioan est élève à l'École nationale des chartes, où elle suit le master "Technologies numériques appliquées à l'histoire".</em></blockquote>
+    <blockquote font-family="Courier New"><em>Maëlys Gioan est diplômée de l'École nationale des chartes, où elle a suivi le master "Technologies numériques appliquées à l'histoire".</em></blockquote>
     <p>🎓 Titulaire d'une licence d'histoire avec mention très bien obtenue à l'université Paris IV, elle a acquis une solide formation en analyse historique. Lors d'un stage aux Archives municipales de Toulon, elle a développé des compétences en gestion archivistique et en documentation historique.</p>
     <p>🖋️ Dans son mémoire de M1, intitulé <em>« La paroisse Saint-Louis de Toulon en 1720 : aperçu social et démographique »</em>, elle a étudié l'histoire sociale de la paroisse en soulignant l'intérêt des technologies numériques pour l'analyse des dynamiques sociales.</p>
-    <p>🖥️ Elle contribue actuellement au projet e-NDP, où elle travaille sur la lemmatisation de textes afin d'améliorer l'accessibilité numérique des registres du chapitre de la cathédrale Notre-Dame de Paris.</p>
-    <p>🛫 En stage au musée de l'air et de l'espace, elle participe à un groupe de réflexion pour harmoniser les thésaurus des différents services du musée, les adapter aux standards existants et préparer leur diffusion. Elle apporte également des conseils pour proposer des solutions de modernisation et d'optimisation de la gestion des archives numériques produites par le département des Collections du musée.</p>
+    <p>🛫 En stage au musée de l'air et de l'espace, elle a participé à un groupe de réflexion pour harmoniser les thésaurus des différents services du musée, les adapter aux standards existants et préparer leur diffusion. Elle a également pu pour proposer des pistes de modernisation et d'optimisation de la gestion des archives numériques produites par le département des Collections du musée. Elle y a finalisé son mémoire de master, qui met en lumière les tensions qui existent entre spécialisation scientifique, exigences d’interopérabilité et contraintes institutionnelles entre les mondes des archives, des musées et des bibliothèques en s'appuyant sur le cas particulier du musée.</p>
     <p>💫 Passionnée par l'archivistique et les technologies numériques, elle aspire à faire progresser l'innovation numérique dans le domaine du patrimoine et des sciences humaines.</p>
-
+    <p>📚 Elle exerce actuellement en tant qu'e-archiviste à l'Université de Lorraine.</p>
 <h2>⚡️ Statistiques</h2>
     <div class="center">
         <a href="https://github.com/May8326/May8326/activity">
